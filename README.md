@@ -1,4 +1,4 @@
-# Task 2: Exploratory Data Analysis on Titanic Datase
+# Task 2: Exploratory Data Analysis on Titanic Dataset
 
 ---
 
